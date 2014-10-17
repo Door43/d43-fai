@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fai:home|Door43 (fai)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fai|d43-fai repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fai/archive/master.zip|d43-fai.zip]]
+
+**Recent Changes**
+{{changes>ns = fai}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fai|Ethnologue data]]
+
